@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d53c2811-8ed0-4ec3-8766-6cad60b842d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AdminPanel/material-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdminPanel/material-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HEROKU 2/MyBankingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HEROKU 2/MyBankingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/MyBankingAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/MyBankingAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/domain/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/domain/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/exceptions/CustomResponseEntityExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/exceptions/CustomResponseEntityExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/repos/PaymentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/repos/PaymentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/services/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/web/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/web/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/Testing.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/Testing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/actions/paymentActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/actions/paymentActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/MainPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/MainPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/CreatePaymentForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/CreatePaymentForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/CurrentPayments.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/CurrentPayments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/PaymentList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/PaymentList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/QuickLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/Payment/QuickLinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/components/layout/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/reducers/paymentReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/reducers/paymentReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mybankingapp-react-c/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../mybankingapp-react-c/src/store.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="demo" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dj330amQxCUf0Ie7ZRFqwUbRKf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyBankingAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banking.app.MyBankingApp.MyBankingAppApplication" />
+      <module name="MyBankingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banking.app.MyBankingApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyBankingAppApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d53c2811-8ed0-4ec3-8766-6cad60b842d8" name="Default Changelist" comment="" />
+      <created>1592924471897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592924471897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1600" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592934061074">
+      <screen x="1600" y="0" width="962" height="768" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592932086478" />
+    <state x="1600" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592934061074" />
+    <state width="1557" height="51" key="GridCell.Tab.0.bottom" timestamp="1592934203216">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="51" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203216" />
+    <state width="919" height="363" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
+    <state width="1557" height="51" key="GridCell.Tab.0.center" timestamp="1592934203215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="51" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
+    <state width="919" height="363" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
+    <state width="1557" height="51" key="GridCell.Tab.0.left" timestamp="1592934203215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="51" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
+    <state width="919" height="363" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975574" />
+    <state width="1557" height="51" key="GridCell.Tab.0.right" timestamp="1592934203215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="51" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
+    <state width="919" height="363" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1592928061127">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592928061127" />
+  </component>
+</project>
