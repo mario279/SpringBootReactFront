@@ -4,6 +4,11 @@
     <list default="true" id="d53c2811-8ed0-4ec3-8766-6cad60b842d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../AdminPanel/material-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdminPanel/material-admin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HEROKU 2/MyBankingApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HEROKU 2/MyBankingApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AWS DB USER PASS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyBankingApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/MyBankingAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/MyBankingAppApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/domain/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBankingApp/src/main/java/com/banking/app/MyBankingApp/domain/Payment.java" afterDir="false" />
@@ -35,7 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="enabledProfiles">
@@ -93,24 +98,36 @@
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592932086478" />
     <state x="1600" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592934061074" />
-    <state width="1557" height="51" key="GridCell.Tab.0.bottom" timestamp="1592934203216">
+    <state x="549" y="267" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1593012139706">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="549" y="267" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593012139706" />
+    <state x="579" y="172" key="FileChooserDialogImpl" timestamp="1593012138453">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="172" key="FileChooserDialogImpl/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593012138453" />
+    <state width="1557" height="541" key="GridCell.Tab.0.bottom" timestamp="1593008608506">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="541" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593008608506" />
     <state width="1557" height="51" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203216" />
     <state width="919" height="363" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
-    <state width="1557" height="51" key="GridCell.Tab.0.center" timestamp="1592934203215">
+    <state width="1557" height="541" key="GridCell.Tab.0.center" timestamp="1593008608506">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="541" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593008608506" />
     <state width="1557" height="51" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
     <state width="919" height="363" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
-    <state width="1557" height="51" key="GridCell.Tab.0.left" timestamp="1592934203215">
+    <state width="1557" height="541" key="GridCell.Tab.0.left" timestamp="1593008608506">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="541" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593008608506" />
     <state width="1557" height="51" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
     <state width="919" height="363" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975574" />
-    <state width="1557" height="51" key="GridCell.Tab.0.right" timestamp="1592934203215">
+    <state width="1557" height="541" key="GridCell.Tab.0.right" timestamp="1593008608506">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="541" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.959.768@0.0.1600.860" timestamp="1593008608506" />
     <state width="1557" height="51" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.962.768@0.0.1600.860" timestamp="1592934203215" />
     <state width="919" height="363" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.962.768@1600.0.962.768" timestamp="1592933975575" />
     <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1592928061127">
